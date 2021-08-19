@@ -1,4 +1,4 @@
-# Code for replicating ERA5 analysis for Stroeve et al., `Rain on Snow Understudied in Sea Ice Remote Sensing'
+# Code for replicating ERA5 analysis for Stroeve et al., 'Rain on Snow Understudied in Sea Ice Remote Sensing'
 
 Analysis of the precipitation at Polarstern in September 2020 can be (and was) done locally on a machine. The data can be downloaded using download_ERA_ROS.ipynb, and then animated and analysed with Animate_ERA5_ROS_event.ipynb
 
